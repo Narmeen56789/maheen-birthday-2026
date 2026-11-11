@@ -1,1 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600"><defs><linearGradient id="p" x2="0" y2="1"><stop stop-color="#f9dfe9"/><stop offset="1" stop-color="#d991ae"/></linearGradient></defs><rect width="800" height="600" fill="url(#p)"/><g fill="#fff8fc" opacity=".48"><circle cx="90" cy="100" r="70"/><circle cx="710" cy="520" r="110"/><circle cx="690" cy="120" r="45"/></g><path d="M0 430q170-90 340 0t460 0v170H0z" fill="#fff7fa" opacity=".5"/><g fill="#c94f83"><path d="M400 80c-28-42-86-8-52 28l52 55 52-55c34-36-24-70-52-28z"/><circle cx="146" cy="452" r="18"/><circle cx="654" cy="402" r="16"/><circle cx="588" cy="490" r="10"/></g><g fill="#fff"><path d="M145 135l7 19 19 7-19 7-7 19-7-19-19-7 19-7zM650 176l6 17 17 6-17 7-6 17-7-17-17-7 17-6zM256 476l5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/></g><text x="400" y="325" text-anchor="middle" font-family="Trebuchet MS, sans-serif" font-size="42" font-weight="bold" fill="#a94270">A LITTLE BIRTHDAY LOVE</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="p" x2="0" y2="1"><stop stop-color="#f9dfe9"/><stop offset="1" stop-color="#d991ae"/></linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#p)"/>
+  <g fill="#fff8fc" opacity=".48"><circle cx="90" cy="100" r="70"/><circle cx="710" cy="520" r="110"/><circle cx="690" cy="120" r="45"/></g>
+  <path d="M0 430q170-90 340 0t460 0v170H0z" fill="#fff7fa" opacity=".5"/>
+  <g fill="#c94f83"><path d="M400 80c-28-42-86-8-52 28l52 55 52-55c34-36-24-70-52-28z"/><circle cx="146" cy="452" r="18"/><circle cx="654" cy="402" r="16"/><circle cx="588" cy="490" r="10"/></g>
+  <g fill="#fff"><path d="M145 135l7 19 19 7-19 7-7 19-7-19-19-7 19-7zM650 176l6 17 17 6-17 7-6 17-7-17-17-7 17-6zM256 476l5 13 13 5-13 5-5 13-5-13-13-5 13-5z"/></g>
+  <text x="400" y="325" text-anchor="middle" font-family="Trebuchet MS, sans-serif" font-size="42" font-weight="bold" fill="#a94270">A LITTLE BIRTHDAY LOVE</text>
+</svg>
